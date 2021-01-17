@@ -1,0 +1,140 @@
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\App.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\Example1.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\Example2.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\Example3.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\MainPage.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\DmitryMironovAgasha.xr.xml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\DmitryMironovAgasha.exe
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\DmitryMironovAgasha.pdb
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\resources.pri
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\AppxManifest.xml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\Core\DmitryMironovAgasha.exe
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\DmitryMironovAgasha.build.appxrecipe
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\System.Runtime.dll
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\App.g.i.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\App.g.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example1.g.i.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example1.g.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example2.g.i.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example2.g.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example3.g.i.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example3.g.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\MainPage.g.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\App.xaml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example1.xaml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example2.xaml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example3.xaml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\MainPage.xaml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\App.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example1.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example2.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example3.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\MainPage.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\DmitryMironovAgasha.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\DmitryMironovAgasha.csproj.CopyComplete
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\DmitryMironovAgasha.exe
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\DmitryMironovAgasha.pdb
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\priconfig.xml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\resources.resfiles
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\pri.resfiles
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\qualifiers.txt
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\DmitryMironovAgasha.csprojAssemblyReference.cache
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example4.g.i.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example4.g.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example4.xaml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example4.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\Example4.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\bin\x64\Debug\Example5.xbf
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example5.g.i.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example5.g.cs
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example5.xaml
+C:\Users\Professional\Documents\Sela Works\Agashot\DmitryMironovAgasha\DmitryMironovAgasha\obj\x64\Debug\Example5.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\App.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\Example1.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\Example2.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\Example3.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\Example4.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\Example5.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\MainPage.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\DmitryMironovAgasha.xr.xml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\DmitryMironovAgasha.exe
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\DmitryMironovAgasha.pdb
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\resources.pri
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\AppxManifest.xml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\Core\AppxManifest.xml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\Core\DmitryMironovAgasha.exe
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\DmitryMironovAgasha.build.appxrecipe
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\System.Runtime.dll
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\DmitryMironovAgasha.csprojAssemblyReference.cache
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\App.g.i.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\App.g.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example1.g.i.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example1.g.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example2.g.i.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example2.g.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example3.g.i.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example3.g.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example4.g.i.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example4.g.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example5.g.i.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example5.g.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\MainPage.g.i.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\MainPage.g.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\App.xaml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example1.xaml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example2.xaml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example3.xaml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example4.xaml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example5.xaml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\MainPage.xaml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\App.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example1.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example2.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example3.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example4.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\Example5.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\MainPage.xbf
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\XamlSaveStateFile.xml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\DmitryMironovAgasha.csproj.CoreCompileInputs.cache
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\DmitryMironovAgasha.csproj.CopyComplete
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\DmitryMironovAgasha.exe
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\DmitryMironovAgasha.pdb
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\ResourceHandlingTask.state
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\priconfig.xml
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\priconfig.xml.intermediate
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\unfiltered.layout.resfiles
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\filtered.layout.resfiles
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\excluded.layout.resfiles
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\resources.resfiles
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\resources.resfiles.intermediate
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\pri.resfiles
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\pri.resfiles.intermediate
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\qualifiers.txt
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\ProjectArchitectures.txt
+D:\Backups\DmitryMironovAgasha_Final_UWP_17-1-2021\DmitryMironovAgasha\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json

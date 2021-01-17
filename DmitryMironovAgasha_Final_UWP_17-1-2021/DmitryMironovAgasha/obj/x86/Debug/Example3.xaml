@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="DmitryMironovAgasha.Example3"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DmitryMironovAgasha"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <!---3 rows-->
+        <Grid.RowDefinitions>
+            <!--<RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>-->
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <!---3 columns-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Column="1" FontSize="25" HorizontalAlignment="Center" Grid.Row="0" TextWrapping="Wrap" VerticalAlignment="Center" Width="Auto"><Run Text="Enter any 2-Digits Number. "/><LineBreak/><Run Text="Tens digit must be greater than Numeric:"/><LineBreak/><Run Text="Example 65,71,83 "/></TextBlock>
+        <TextBox x:ConnectionId='2' Grid.Column="1" Name="txtNumber" BorderBrush="White" BorderThickness="1" FontSize="20" Foreground="Yellow" HorizontalAlignment="Center" Grid.Row="1" PlaceholderText="Enter any 2Digits number : 65, or 56 .." TextWrapping="Wrap" VerticalAlignment="Center"/>
+        <Button x:ConnectionId='3' Content="Submit" Name="btnSubmit"                          Grid.Column="1" HorizontalAlignment="Center" Margin="0,0,0,0" Grid.Row="1" VerticalAlignment="Bottom" Width="200"/>
+        <TextBlock x:ConnectionId='4' x:Name="lblStatus" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="2" Text="" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="20" Foreground="GreenYellow"/>
+
+
+    </Grid>
+</Page>
+
